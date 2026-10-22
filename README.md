@@ -12,7 +12,7 @@
 #include <WiFi.h>
 #include <esp_wifi.h>
 
-const char *BASE_SSID = "Joey was here";
+const char *BASE_SSID = "Customizable Name Here";  // Change the name of the beacon here
 #define NUM_SSIDS 500
 #define CHANNEL 1
 
